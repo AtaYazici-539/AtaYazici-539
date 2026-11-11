@@ -23,7 +23,7 @@ Mechanical design and dynamic balance analysis in SolidWorks. Supported the deve
 ### [VESTA HOME — In Development](https://github.com/AtaYazici-539/vesta-home/blob/main/README.eng.md)
 Smart home automation project covering system block diagrams, component selection, and operating scenarios. Initial software development is underway.
 
-Project summaries, selected images, and videos will be added to this portfolio.
+This portfolio showcases selected engineering projects through summaries, diagrams, analysis results, and simulation media.
 <!--
 **AtaYazici-539/AtaYazici-539** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
