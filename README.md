@@ -20,6 +20,7 @@ Mechanical design, fastener selection and design, and static and dynamic analyse
 
 ### Self-Balancing Motorcycle
 Mechanical design and dynamic balance analysis in SolidWorks. Supported the development of the Arduino-based control system.
+### [Self-Balancing Motorcycle](https://github.com/AtaYazici-539/self-balancing-motorcycle/blob/main/README.eng.md)
 
 ### VESTA HOME — In Development
 Smart home automation project covering system block diagrams, component selection, and operating scenarios. Initial software development is underway.
