@@ -1,5 +1,21 @@
-# Ata Yazıcı
-### Mechatronics Engineer
+<p align="center">
+  <img src="assets/profile-banner.png" width="100%" alt="Ata Yazıcı — Mechatronics Engineer" />
+</p>
+
+<p align="center">
+  <img src="assets/icons/solidworks.png" width="48" alt="SolidWorks" title="SolidWorks" />&nbsp;&nbsp;
+  <img src="assets/icons/autocad.png" width="48" alt="AutoCAD" title="AutoCAD" />&nbsp;&nbsp;
+  <img src="assets/icons/ansys.png" width="48" alt="Ansys" title="Ansys" />&nbsp;&nbsp;
+  <img src="assets/icons/matlab.png" width="48" alt="MATLAB" title="MATLAB" />&nbsp;&nbsp;
+  <img src="assets/icons/simulink.png" width="48" alt="Simulink" title="Simulink" />&nbsp;&nbsp;
+  <img src="assets/icons/python.png" width="48" alt="Python" title="Python" />&nbsp;&nbsp;
+  <img src="assets/icons/codex.png" width="48" alt="Codex" title="Codex" />&nbsp;&nbsp;
+  <img src="assets/icons/claude-code.png" width="48" alt="Claude Code" title="Claude Code" />
+</p>
+
+<p align="center">
+  <sub>SolidWorks · AutoCAD · Ansys · MATLAB · Simulink · Python · Codex · Claude Code</sub>
+</p>
 
 I am a mechatronics engineer with academic and hands-on experience in mechanical design, engineering analysis, control systems, and manufacturing processes.
 
@@ -7,10 +23,11 @@ My work combines mechanical design and analysis with contributions to control sy
 
 ## Technical Skills
 
-- Mechanical Design: SolidWorks, AutoCAD, technical drawing
-- Engineering Analysis: Static and dynamic analysis, FEA
-- Control & Simulation: MATLAB, Simulink, PID, LQR, state-space modeling
-- Programming: Python
+- **Mechanical Design:** SolidWorks, AutoCAD, technical drawing
+- **Engineering Analysis:** Static and dynamic analysis, FEA
+- **Control & Simulation:** MATLAB, Simulink, PID, LQR, state-space modeling
+- **Programming:** Python
+- **AI-Assisted Development:** Terminal-Based AI Coding Agents, Multi-Agent Workflows
 
 ## Selected Projects
 
