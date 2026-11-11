@@ -16,6 +16,7 @@ My work combines mechanical design and analysis with contributions to control sy
 
 ### Search & Rescue UAV
 Mechanical design, fastener selection and design, and static and dynamic analyses of a UAV using UWB and LiDAR technologies. Supported control system development using MATLAB/Simulink. Presented the project methodology and simulation results at MEKON 2026.
+### [Search & Rescue UAV](https://github.com/AtaYazici-539/search-and-rescue-uav/blob/main/README.eng.md)
 
 ### Self-Balancing Motorcycle
 Mechanical design and dynamic balance analysis in SolidWorks. Supported the development of the Arduino-based control system.
