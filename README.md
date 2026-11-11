@@ -37,7 +37,7 @@ Mechanical design, fastener selection and design, and static and dynamic analyse
 ### <a href="https://github.com/AtaYazici-539/self-balancing-motorcycle"><img src="assets/project-links/heading-motorcycle.svg" height="32" alt="Self-Balancing Motorcycle" /></a>
 Mechanical design and dynamic balance analysis in SolidWorks. Supported the development of the Arduino-based control system.
 
-### <a href="https://github.com/AtaYazici-539/vesta-home/blob/main/README.eng.md"><img src="assets/project-links/heading-vesta.svg" height="32" alt="VESTA HOME — In Development" /></a>
+### <a href="https://github.com/AtaYazici-539/vesta-home"><img src="assets/project-links/heading-vesta.svg" height="32" alt="VESTA HOME — In Development" /></a>
 Smart home automation project covering system block diagrams, component selection, and operating scenarios. Initial software development is underway.
 
 This portfolio showcases selected engineering projects through summaries, diagrams, analysis results, and simulation media.
